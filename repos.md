@@ -350,10 +350,6 @@ Open data project for small-scale food growers [http://growstuff.org/](http://gr
 A Rails plugin which provides a health checking and monitoring API of various services and application aspects.  
 [https://github.com/lbeder/health-monitor-rails](https://github.com/lbeder/health-monitor-rails)
 
-### heaven
-:walking: Rails app for GitHub Flow  
-[https://github.com/atmos/heaven](https://github.com/atmos/heaven)
-
 ### helpy
 Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email. [http://helpy.io/?source=ghh](http://helpy.io/?source=ghh)  
 [https://github.com/helpyio/helpy](https://github.com/helpyio/helpy)
@@ -365,10 +361,6 @@ Heya 👋 is a campaign mailer for Rails. Think of it like ActionMailer, but for
 ### high_voltage
 Easily include static pages in your Rails app. [http://thoughtbot.github.io/high_voltage](http://thoughtbot.github.io/high_voltage)  
 [https://github.com/thoughtbot/high_voltage](https://github.com/thoughtbot/high_voltage)
-
-### hound
-Automated code review for GitHub pull requests. [https://houndci.com](https://houndci.com)  
-[https://github.com/thoughtbot/hound](https://github.com/thoughtbot/hound)
 
 ### hourglass
 Client and internal time management with Harvest [hourglass.collectiveidea.com](hourglass.collectiveidea.com)  

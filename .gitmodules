@@ -94,10 +94,6 @@
 	path = apps/hours
 	url = git@github.com:DefactoSoftware/Hours.git
 	branch = development
-[submodule "apps/hound"]
-	path = apps/hound
-	url = git@github.com:thoughtbot/hound.git
-	branch = master
 [submodule "apps/loomio"]
 	path = apps/loomio
 	url = git@github.com:loomio/loomio.git
@@ -125,7 +121,7 @@
 [submodule "apps/rails-contributors"]
 	path = apps/rails-contributors
 	url = git@github.com:fxn/rails-contributors.git
-	branch = master
+	branch = main
 [submodule "apps/tomatoes"]
 	path = apps/tomatoes
 	url = git@github.com:potomak/tomatoes.git
@@ -161,7 +157,7 @@
 [submodule "apps/bridge_troll"]
 	path = apps/bridge_troll
 	url = git@github.com:railsbridge/bridge_troll.git
-	branch = master
+	branch = main
 [submodule "apps/whitehall"]
 	path = apps/whitehall
 	url = git@github.com:alphagov/whitehall.git
@@ -177,10 +173,6 @@
 [submodule "apps/inch_ci-web"]
 	path = apps/inch_ci-web
 	url = git@github.com:inch-ci/inch_ci-web.git
-	branch = master
-[submodule "apps/heaven"]
-	path = apps/heaven
-	url = git@github.com:atmos/heaven.git
 	branch = master
 [submodule "apps/codemontage"]
 	path = apps/codemontage
@@ -293,7 +285,7 @@
 [submodule "apps/git-scm"]
 	path = apps/git-scm
 	url = git@github.com:git/git-scm.com.git
-	branch = main
+	branch = gh-pages
 [submodule "apps/ror_ecommerce"]
 	path = apps/ror_ecommerce
 	url = git@github.com:drhenner/ror_ecommerce.git
@@ -582,11 +574,11 @@
 [submodule "apps/planningalerts"]
 	path = apps/planningalerts
 	url = git@github.com:openaustralia/planningalerts.git
-	branch = master
+	branch = main
 [submodule "apps/morph"]
 	path = apps/morph
 	url = git@github.com:openaustralia/morph.git
-	branch = master
+	branch = main
 [submodule "apps/cuttlefish"]
 	path = apps/cuttlefish
 	url = git@github.com:mlandauer/cuttlefish.git
@@ -594,7 +586,7 @@
 [submodule "apps/publicwhip"]
 	path = apps/publicwhip
 	url = git@github.com:openaustralia/publicwhip.git
-	branch = master
+	branch = main
 [submodule "engines/cangaroo"]
 	path = engines/cangaroo
 	url = git@github.com:nebulab/cangaroo.git
@@ -670,7 +662,7 @@
 [submodule "apps/octobox"]
 	path = apps/octobox
 	url = git@github.com:octobox/octobox.git
-	branch = master
+	branch = main
 [submodule "engines/field_test"]
 	path = engines/field_test
 	url = git@github.com:ankane/field_test.git
@@ -754,7 +746,7 @@
 [submodule "apps/claim-for-crown-court-defence"]
 	path = apps/claim-for-crown-court-defence
 	url = git@github.com:ministryofjustice/Claim-for-Crown-Court-Defence.git
-	branch = master
+	branch = main
 [submodule "apps/bike_index"]
 	path = apps/bike_index
 	url = git@github.com:bikeindex/bike_index.git
@@ -798,7 +790,7 @@
 [submodule "apps/speakerinnen_liste"]
 	path = apps/speakerinnen_liste
 	url = git@github.com:rubymonsters/speakerinnen_liste.git
-	branch = master
+	branch = main
 [submodule "apps/on_ruby"]
 	path = apps/on_ruby
 	url = git@github.com:phoet/on_ruby.git
@@ -806,7 +798,7 @@
 [submodule "apps/eff-action-center-platform"]
 	path = apps/eff-action-center-platform
 	url = git@github.com:EFForg/action-center-platform.git
-	branch = master
+	branch = main
 [submodule "apps/chatwoot"]
 	path = apps/chatwoot
 	url = https://github.com/chatwoot/chatwoot
