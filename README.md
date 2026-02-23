@@ -60,7 +60,14 @@ If you want to update all submodules to the absolute latest right now (without w
 
 ## Contributing
 
-Contributions are welcome! If you know of a great open source Rails application or engine, please submit a pull request.
+Know of a great open source Rails app that should be in here? The easiest way is to [open an issue](https://github.com/steveclarke/real-world-rails/issues/new) with the GitHub URL and we'll add it.
+
+If you already have the repo cloned, you can also submit a PR:
+
+```bash
+bin/add https://github.com/githubuser/foo
+# then commit and open a pull request
+```
 
 #### Criteria for adding apps
 
@@ -69,25 +76,6 @@ Apps should:
 - Be built with Ruby on Rails
 - Be actively maintained or represent quality code worth studying
 - Be real-world applications (not just demos or tutorials)
-
-#### How to add a Real World Rails app
-
-```bash
-bin/add https://github.com/githubuser/foo
-
-# For engines:
-bin/add https://github.com/githubuser/foo engine
-```
-
-#### How to remove a submodule
-
-Only use this if a previously public repo has been removed:
-
-```bash
-git submodule deinit -f path/to/submodule
-rm -rf .git/modules/path/to/submodule
-git rm -f path/to/submodule
-```
 
 ## Agent Skill
 
