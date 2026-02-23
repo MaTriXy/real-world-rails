@@ -49,7 +49,7 @@ git pull
 git submodule update
 ```
 
-If you want to update all submodules to the absolute latest right now (without waiting for the monthly action), run `bin/update`.
+If you want to update all submodules to the absolute latest right now (without waiting for the weekly action), run `bin/update`.
 
 ## Scripts
 
