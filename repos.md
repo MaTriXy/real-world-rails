@@ -251,8 +251,12 @@ Easy Monitoring
 A platform to create, publish and edit sites [http://www.locomotivecms.com](http://www.locomotivecms.com)  
 [https://github.com/locomotivecms/engine](https://github.com/locomotivecms/engine)
 
+### ecommerce
+Application with CQRS and Event Sourcing built on Rails and Rails Event Store.
+[https://github.com/RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce)
+
 ### enki
-A Ruby on Rails blogging app for the fashionable developer. It's better than Mephisto or SimpleLog  
+A Ruby on Rails blogging app for the fashionable developer. It's better than Mephisto or SimpleLog
 [https://github.com/xaviershay/enki](https://github.com/xaviershay/enki)
 
 ### envizon
@@ -347,8 +351,12 @@ Simplify receiving email in Rails (deprecated) [http://griddler.io/](http://grid
 [https://github.com/thoughtbot/griddler](https://github.com/thoughtbot/griddler)
 
 ### growstuff
-Open data project for small-scale food growers [http://growstuff.org/](http://growstuff.org/)  
+Open data project for small-scale food growers [http://growstuff.org/](http://growstuff.org/)
 [https://github.com/Growstuff/growstuff](https://github.com/Growstuff/growstuff)
+
+### gumroad
+Sell stuff and see what sticks. [https://gumroad.com](https://gumroad.com)
+[https://github.com/antiwork/gumroad](https://github.com/antiwork/gumroad)
 
 ### health-monitor-rails
 A Rails plugin which provides a health checking and monitoring API of various services and application aspects.  
@@ -594,8 +602,12 @@ A Ruby on Rails Engine which provides a double entry accounting system for your 
 Politwoops web front end  
 [https://github.com/sunlightlabs/politwoops](https://github.com/sunlightlabs/politwoops)
 
+### posse_party
+Quit social media by posting more.
+[https://github.com/searlsco/posse_party](https://github.com/searlsco/posse_party)
+
 ### postal
-📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail [https://postalserver.io](https://postalserver.io)  
+A fully featured open source mail delivery platform for incoming & outgoing e-mail [https://postalserver.io](https://postalserver.io)  
 [https://github.com/atech/postal](https://github.com/atech/postal)
 
 ### postgresql_lo_streamer

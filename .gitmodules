@@ -859,3 +859,15 @@
 	path = apps/once-campfire
 	url = git@github.com:basecamp/once-campfire.git
 	branch = main
+[submodule "apps/gumroad"]
+	path = apps/gumroad
+	url = git@github.com:antiwork/gumroad.git
+	branch = main
+[submodule "apps/posse_party"]
+	path = apps/posse_party
+	url = git@github.com:searlsco/posse_party.git
+	branch = main
+[submodule "apps/ecommerce"]
+	path = apps/ecommerce
+	url = git@github.com:RailsEventStore/ecommerce.git
+	branch = master
