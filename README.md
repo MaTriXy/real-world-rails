@@ -2,15 +2,18 @@
 
 > Real World Rails applications and their open source codebases for developers to learn from
 
-This project brings 100+ (and growing) active, open source Rails apps and engines together in one repository, making it easier for developers to download the collected codebases and learn from Rails apps written by experienced developers. Reading open source code can be an invaluable learning aid. You&rsquo;ll find the source code in the [`apps/`](apps/) and [`engines/`](engines/) subdirectories.
+This is an actively maintained fork of [eliotsykes/real-world-rails](https://github.com/eliotsykes/real-world-rails), which was last updated in July 2024. Submodules are kept up to date and new notable Rails apps are added as they emerge.
 
-Real World Rails was begun to help teach newer developers and to research and write about Rails development practices:
+This project brings 200+ active, open source Rails apps and engines together in one repository, making it easier for developers to download the collected codebases and learn from Rails apps written by experienced developers. Reading open source code can be an invaluable learning aid. You'll find the source code in the [`apps/`](apps/) and [`engines/`](engines/) subdirectories.
 
-- Find example usage of a method you&rsquo;re unsure of
-- Learn how other developers use a gem you&rsquo;d like to use
+Real World Rails helps developers:
+
+- Find example usage of a method you're unsure of
+- Learn how other developers use a gem you'd like to use
 - Discover how to write tests
 - See how Rails engines are built
-- &hellip;and much, much more.
+- Research architectural patterns across production codebases
+- ...and much more.
 
 ## How to install on your computer
 
@@ -18,7 +21,7 @@ Ensure you have git-lfs installed: https://git-lfs.com
 
 ```bash
 # Clone this git repo:
-git clone git@github.com:eliotsykes/real-world-rails.git
+git clone git@github.com:steveclarke/real-world-rails.git
 
 cd real-world-rails/
 
