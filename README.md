@@ -89,6 +89,18 @@ rm -rf .git/modules/path/to/submodule
 git rm -f path/to/submodule
 ```
 
+## Agent Skill
+
+This repo includes a `/real-world-rails` skill for AI coding agents. It teaches your agent to search across all 200+ codebases to research how production apps solve architectural problems.
+
+Install it with:
+
+```bash
+npx skills add steveclarke/real-world-rails
+```
+
+Then ask your agent things like "how do Rails apps handle multi-tenancy?" or "research background job patterns across real world rails apps" and it will search the actual source code.
+
 ## Other Real World Codebase Collections
 
 - [Real World Nuxt](https://github.com/steveclarke/real-world-nuxt)
