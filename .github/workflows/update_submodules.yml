@@ -46,5 +46,5 @@ jobs:
         run: |
           gh pr create \
             --fill \
-            --reviewer eliotsykes \
+            --reviewer steveclarke \
             --base ${{ github.ref_name }}
