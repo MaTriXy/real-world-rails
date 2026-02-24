@@ -1,3 +1,4 @@
 /.bundle
-/analyses/
+/analyses/*
+!/analyses/.keep
 .DS_Store
