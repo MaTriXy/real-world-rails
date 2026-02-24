@@ -706,6 +706,10 @@ The Ruby Together website [rubytogether.org](rubytogether.org)
 Find actively maintained & popular open source software libraries for the Ruby programming language [https://www.ruby-toolbox.com](https://www.ruby-toolbox.com)  
 [https://github.com/rubytoolbox/rubytoolbox](https://github.com/rubytoolbox/rubytoolbox)
 
+### rubyevents
+Ruby & Rails conferences, pair programming, and talks. [https://www.rubyevents.org](https://www.rubyevents.org)
+[https://github.com/rubyevents/rubyevents](https://github.com/rubyevents/rubyevents)
+
 ### rucaptcha
 Captcha Gem for Rails, which generates captcha image by Rust. [https://huacnlee.github.io/rucaptcha](https://huacnlee.github.io/rucaptcha)  
 [https://github.com/huacnlee/rucaptcha](https://github.com/huacnlee/rucaptcha)

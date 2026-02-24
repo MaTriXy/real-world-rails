@@ -872,3 +872,6 @@
 	path = apps/ecommerce
 	url = git@github.com:RailsEventStore/ecommerce.git
 	branch = master
+[submodule "apps/rubyevents"]
+	path = apps/rubyevents
+	url = https://github.com/rubyevents/rubyevents.git
