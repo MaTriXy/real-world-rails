@@ -551,8 +551,12 @@ Open Source Event Manager. An event management tool tailored to Free and Open So
 [https://github.com/openSUSE/osem](https://github.com/openSUSE/osem)
 
 ### pageflow
-Multimedia story telling for the web. [http://pageflow.io](http://pageflow.io)  
+Multimedia story telling for the web. [http://pageflow.io](http://pageflow.io)
 [https://github.com/codevise/pageflow](https://github.com/codevise/pageflow)
+
+### pagecord
+Blogging as easy as sending an email. [https://pagecord.com](https://pagecord.com)
+[https://github.com/lylo/pagecord](https://github.com/lylo/pagecord)
 
 ### panamax-ui
 The Web GUI for Panamax [http://panamax.io](http://panamax.io)  

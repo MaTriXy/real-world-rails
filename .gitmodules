@@ -875,3 +875,6 @@
 [submodule "apps/rubyevents"]
 	path = apps/rubyevents
 	url = https://github.com/rubyevents/rubyevents.git
+[submodule "apps/pagecord"]
+	path = apps/pagecord
+	url = https://github.com/lylo/pagecord.git
